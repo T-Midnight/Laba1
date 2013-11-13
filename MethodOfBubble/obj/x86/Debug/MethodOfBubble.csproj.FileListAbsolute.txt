@@ -1,0 +1,5 @@
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\MethodOfBubble\MethodOfBubble\bin\Debug\MethodOfBubble.exe
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\MethodOfBubble\MethodOfBubble\bin\Debug\MethodOfBubble.pdb
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\MethodOfBubble\MethodOfBubble\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\MethodOfBubble\MethodOfBubble\obj\x86\Debug\MethodOfBubble.exe
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\MethodOfBubble\MethodOfBubble\obj\x86\Debug\MethodOfBubble.pdb
