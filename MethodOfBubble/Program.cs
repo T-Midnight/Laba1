@@ -2,17 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+// сколько библиотек ты реально используешь
 
 namespace MethodOfBubble
 {
     class Program
     {
+        // string[] args пробовала удалять? ты же им не пользуешься.
         static void Main(string[] args)
         {
             Console.WriteLine("Введите количество элементов массива");
             int size = Int32.Parse(Console.ReadLine());
+            // массив называется m1, почему?
             int[] m1 = new int[size];
-
+            //индексы надо объявлять внутри каждого цикла, а не перед всеми
             int i, j;
 
             for (i = 0; i < m1.Length; i++) {
@@ -33,6 +36,7 @@ namespace MethodOfBubble
             for (i = 0; i < m1.Length; i++) {
                 Console.Write(m1[i] + " ");
             }
+            // неформатированный код :)
 
                 Console.ReadKey();
         }
