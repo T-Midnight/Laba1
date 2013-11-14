@@ -3,3 +3,8 @@ c:\documents and settings\admin\мои документы\visual studio 2010\Pro
 c:\documents and settings\admin\мои документы\visual studio 2010\Projects\MethodOfBubble\MethodOfBubble\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\documents and settings\admin\мои документы\visual studio 2010\Projects\MethodOfBubble\MethodOfBubble\obj\x86\Debug\MethodOfBubble.exe
 c:\documents and settings\admin\мои документы\visual studio 2010\Projects\MethodOfBubble\MethodOfBubble\obj\x86\Debug\MethodOfBubble.pdb
+D:\Laba1\Laba1\MethodOfBubble\obj\x86\Debug\MethodOfBubble.exe
+D:\Laba1\Laba1\MethodOfBubble\obj\x86\Debug\MethodOfBubble.pdb
+D:\Laba1\Laba1\MethodOfBubble\bin\Debug\MethodOfBubble.exe
+D:\Laba1\Laba1\MethodOfBubble\bin\Debug\MethodOfBubble.pdb
+D:\Laba1\Laba1\MethodOfBubble\obj\x86\Debug\ResolveAssemblyReference.cache
