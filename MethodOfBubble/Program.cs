@@ -18,7 +18,7 @@ namespace MethodOfBubble
             for (i = 0; i < m1.Length; i++) {
                 Console.WriteLine("Введите  " + i + "  элемент массива");
                 m1[i] = Int32.Parse(Console.ReadLine());
-                }
+            }
 
             for (i = 0; i < m1.Length; i++) {
                 for (j = 0; j < (m1.Length - 1) ; j++) {
@@ -35,7 +35,6 @@ namespace MethodOfBubble
             }
 
                 Console.ReadKey();
-
         }
     }
 }
